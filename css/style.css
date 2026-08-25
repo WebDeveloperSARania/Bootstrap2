@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.boom{
+	width: 180px;
+	height: 180px;
+	background: green;
+	display: inline-block;
+	border: 5px solid orange;
+}
+
+.boom-right{
+	border-right: none;
+}
+
+.cool{
+	width: 180px;
+	height: 180px;
+}
